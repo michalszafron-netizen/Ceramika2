@@ -1,0 +1,6 @@
+node_modules/
+dist/
+ceramics.db
+.env
+*.local
+.DS_Store
